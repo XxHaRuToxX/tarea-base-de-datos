@@ -1,0 +1,5 @@
+password = 8igVBLzSTeUfjh7j
+user = xxharutoxx
+
+connection = mongodb+srv://xxharutoxx:<password>@unamad-db.lobsbgb.mongodb.net/test
+connection = mongodb+srv://xxharutoxx:8igVBLzSTeUfjh7j@unamad-db.lobsbgb.mongodb.net/unamad-db
